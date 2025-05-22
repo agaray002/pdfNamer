@@ -6,7 +6,6 @@ import re
 # Toggle settings
 bs_year = "2024"  # Set to the year you want, or leave "" for no year
 
-# Save last-used client and path
 config_file = "client_config.json"
 
 def load_last_used():
